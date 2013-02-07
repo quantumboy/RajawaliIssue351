@@ -21,8 +21,8 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import com.errordemo.demo.R;
 
-//public class DemoActivity extends RajawaliFragmentActivity {
-public class DemoActivity extends RajawaliActivity {
+public class DemoActivity extends RajawaliFragmentActivity {
+//public class DemoActivity extends RajawaliActivity {
 	private final int UP = 0;
 	private final int DOWN = 1;
 	private final int LEFT = 2;
